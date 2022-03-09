@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactgolive/static/css/main.76df046f.css",
+    "main.js": "/reactgolive/static/js/main.9e098552.js",
+    "index.html": "/reactgolive/index.html",
+    "main.76df046f.css.map": "/reactgolive/static/css/main.76df046f.css.map",
+    "main.9e098552.js.map": "/reactgolive/static/js/main.9e098552.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76df046f.css",
+    "static/js/main.9e098552.js"
+  ]
+}
